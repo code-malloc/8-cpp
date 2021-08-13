@@ -26,7 +26,7 @@ int main()
 {
 	int rost, ves, vozrast;
 
-	cout << "\tТри кита.\n";
+	cout << "\tТри золотых упражнения.\n";
 
 	cout << "Ваш рост (см): ";
 	cin >> rost;
